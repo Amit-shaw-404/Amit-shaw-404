@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 📫 How to reach me **amitshaw.1307@gmail.com*
+- 📫 How to reach me **amitshaw.1307@gmail.com**
 
 ## Connect with me
 
