@@ -5,12 +5,12 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 📫 How to reach me **yorsamit1@gmail.com**
+- 📫 How to reach me **amitshaw.1307@gmail.com*
 
 ## Connect with me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amit-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit-shaw-a2aa67202/)](https://www.linkedin.com/in/amit-shaw-a2aa67202/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-yorsamit1@gmail.com-c14438?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:subhadipmaji700)](mailto:yorsamit1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Amit-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit-shaw-a2aa67202/)](https://www.linkedin.com/in/amit-shaw-a2aa67202/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-yorsamit1@gmail.com-c14438?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:subhadipmaji700)](mailto:amitshaw.1307@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
